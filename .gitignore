@@ -5,3 +5,5 @@
 *.csv
 src/Icon
 Tableau/Icon
+*.twbr
+*.twbx
